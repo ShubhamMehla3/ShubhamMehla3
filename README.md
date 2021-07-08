@@ -1,5 +1,10 @@
 ### Hi,I'm Shubham Mehla 👋
 
+## The data speaks until you are not involve in it.
+
+## Skills: DNN / CNN 
+
+
 - 🔭 I’m currently working on Deep Learning Projects
 <!-- - 🌱 I’m currently learning Docker -->
 <!-- - 👯 I’m looking to collaborate on ... -->
