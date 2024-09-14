@@ -2,7 +2,7 @@
 
 #### The data speaks until you are not involve in it.
 
-#### Skills: DNN / CNN / RNN
+#### Skills: Computer Vision and NLP
 
 
 - 🔭 I’m currently working on Deep Learning Projects
