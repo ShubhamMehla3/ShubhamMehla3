@@ -1,6 +1,6 @@
 ### Hi,I'm Shubham Mehla 👋
 
-#### The data speaks until you are not involve in it.
+#### The data speaks until you are not involved in it.
 
 #### Skills: Computer Vision and NLP
 
